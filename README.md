@@ -63,7 +63,7 @@ https://github.com/Esdeath4l/guessgame.git
 
 1. Clone the repo:
    ```bash
-   
+   https://github.com/Esdeath4l/guessgame.git
    ```
 
 2. Open the folder:
