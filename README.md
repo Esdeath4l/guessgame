@@ -9,9 +9,6 @@ A simple number guessing game built with HTML, CSS, and JavaScript.   Guess a nu
 A simple and fun browser-based game where you try to guess a number between 0 and 100! 🎯  
 Built with just **HTML, CSS, and JavaScript** – no libraries or frameworks.
 
-![Screenshot 2025-04-11 155457](https://github.com/user-attachments/assets/1a4bb94d-5c7b-4fa2-80ce-ffee992314f4)
-
-
 ## 🚀 How to Play
 
 1. Enter a number between 0 and 100.
@@ -31,9 +28,9 @@ Built with just **HTML, CSS, and JavaScript** – no libraries or frameworks.
 ## 🖼️ Demo
 
 > You can try the live game here:  
-**https://yourusername.github.io/guess-the-number-game/**
+**https://github.com/Esdeath4l/guessgame.git**
 
-*(Replace with your actual GitHub Pages link)*
+
 
 ## 📁 Files
 
