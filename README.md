@@ -82,5 +82,4 @@ This project is under MIT license.
 ---
 
 > Made with ❤️ using only HTML, CSS & JavaScript.
-```
 
