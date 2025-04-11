@@ -1,66 +1,97 @@
-# guessgame
-A simple number guessing game built with HTML, CSS, and JavaScript.   Guess a number between 0–100 and see if you're right!
 
-### 📄 `README.md`
+# 🎯 Guess the Number Game
 
-```markdown
-# 🎮 Guess the Number Game
+A simple and fun web-based number guessing game built with HTML, CSS, and JavaScript.
 
-A simple and fun browser-based game where you try to guess a number between 0 and 100! 🎯  
-Built with just **HTML, CSS, and JavaScript** – no libraries or frameworks.
+You get a randomly generated number between **1 and 100**, and your goal is to guess it correctly with as few attempts as possible. Each wrong guess decreases your score by 1 — so aim for a high score! 🔥
 
-## 🚀 How to Play
-
-1. Enter a number between 0 and 100.
-2. Click **"Check my guess"**.
-3. You'll get feedback whether your guess is right or wrong.
-4. Each wrong guess reduces your score by 1.
-5. Try to guess the number with the highest score possible!
-
-## 🛠️ Features
-
-- Random number generation between 1–100
-- Input validation
-- Score tracking with minimum score lock at 0
-- Simple and clean UI with responsive design
-- Styled game box layout using CSS
-
-## 🖼️ Demo
-
-> You can try the live game here:  
-**https://github.com/Esdeath4l/guessgame.git**
-
-
-
-## 📁 Files
-
-- `index.html` – Main HTML page with embedded CSS & JS
-- `README.md` – You're reading it :)
-
-
-## 🧠 Future Ideas
-
-- Too high / too low hints
-- Play again / reset button
-- High score tracking
-- Sound effects or animations
-- Difficulty levels
-
-## 📸 Screenshot
-```
-![Screenshot 2025-04-11 155457](https://github.com/user-attachments/assets/3083c73b-bf5b-4e31-9291-0050b01bccca)
-
-```
 ---
 
-### ✅ How to Add It:
+## 🚀 Live Demo
 
-1. In the same folder as your `index.html`, create a new file named `README.md`.
-2. Paste the above content into it.
-3. Then run:
+👉 [Play it here]
 
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
+---
+
+## 📷 Screenshot
+
+![Screenshot 2025-04-11 155457](https://github.com/user-attachments/assets/f71594bc-0f39-4b6d-9352-b439727c4da3)
+
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the game
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla)** – Game logic and interactivity
+
+---
+
+## 🎮 How to Play
+
+1. Enter a number between **1 and 100** in the input field.
+2. Click the **"Check my guess"** button.
+3. If your guess is correct, you'll win the game! 🎉  
+4. Each wrong guess will reduce your score by 1.
+5. Try to guess with the **highest score** possible.
+
+---
+
+## ✨ Features
+
+- Random number generation (1–100)
+- Score tracking with minimum score cap at 0
+- Simple and clean interface
+- Fully responsive design
+- Styled game box layout using CSS
+- Alert on winning the game
+
+---
+
+## 📁 File Structure
+
 ```
+guess-the-number-game/
+├── index.html        # Main HTML page
+├── README.md         # Project overview and instructions
+└── screenshot.png    # (Optional) Screenshot of the game
+```
+
+---
+
+## 🔧 Future Improvements
+
+- Add hints: "Too high" or "Too low"
+- Play again / reset button
+- High score tracking
+- Add animations or sound effects
+- Improve mobile responsiveness
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   
+   ```
+
+2. Open the folder:
+   ```bash
+   cd guess-the-number-game
+   ```
+
+3. Open `index.html` in your browser.
+
+---
+
+## 📜 License
+
+This project is under MIT license.
+
+---
+
+> Made with ❤️ using only HTML, CSS & JavaScript.
+```
+
