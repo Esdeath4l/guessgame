@@ -10,7 +10,7 @@ You get a randomly generated number between **1 and 100**, and your goal is to g
 ## 🚀 Live Demo
 
 👉 [Play it here]
-
+https://github.com/Esdeath4l/guessgame.git
 ---
 
 ## 📷 Screenshot
@@ -46,17 +46,6 @@ You get a randomly generated number between **1 and 100**, and your goal is to g
 - Fully responsive design
 - Styled game box layout using CSS
 - Alert on winning the game
-
----
-
-## 📁 File Structure
-
-```
-guess-the-number-game/
-├── index.html        # Main HTML page
-├── README.md         # Project overview and instructions
-└── screenshot.png    # (Optional) Screenshot of the game
-```
 
 ---
 
